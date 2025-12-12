@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "片想いJewelry♡",
+  "base_artist": "Lollipop♡CHU",
+  "createdAt": "2025-12-12T01:29:40.828533Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "片想いJewelry♡",
+      "artist": "Lollipop♡CHU",
+      "has_synced": false,
+      "path": "select/pl_01_片想いJewelry♡_Lollipop♡CHU.txt"
+    }
+  ]
+}
